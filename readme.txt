@@ -1,4 +1,4 @@
-Small 2D physics game demo with gravitational simulation objects.
+Small 2D physics game demo with gravitational simulation and collisions between objects.
 
 requirements:
   python 3.7.1 (older versions might work, not tested)
