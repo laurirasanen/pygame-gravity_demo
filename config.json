@@ -1,12 +1,14 @@
 {
-	"projectile_velocity": -5,
-	"projectile_mass": 10,
+	"projectile_velocity": 1,
+	"projectile_mass": 100,
+	"projectile_size": 10,
 	"gravity": 0.98,
-	"planet_mass": 4000,
-	"collisions": false,
-	"window_width": 1280,
-	"window_height": 720,
-	"fullscreen": false,
+	"planet_mass": 8000,
+	"planet_rotation_speed": 5,
+	"collisions": true,
+	"window_width": 1920,
+	"window_height": 1080,
+	"fullscreen": true,
 	"framerate": 60,
 	"clear_color": [20, 15, 30]
 }
