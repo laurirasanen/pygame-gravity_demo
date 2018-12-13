@@ -1,5 +1,4 @@
-Small physics game demo with gravitational simulation between the planet and projectiles.
-Projectiles also affect each other.
+Small 2D physics game demo with gravitational simulation objects.
 
 requirements:
   python 3.7.1 (older versions might work, not tested)
